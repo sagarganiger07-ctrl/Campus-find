@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind",
+  "description": "College Lost & Found mobile platform for students and staff to report, search, claim, and return items on campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
